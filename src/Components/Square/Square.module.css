@@ -1,0 +1,5 @@
+.root {
+	width: min(70vw, 70vh);
+	aspect-ratio: 1/1;
+	background-color: #000000;
+}
